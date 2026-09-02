@@ -1,0 +1,12 @@
+body{
+    color: #fff;
+    background-color: #000 !important;
+}
+
+.navbar-text a, .navbar-text a:focus, .navbar-text a:hover {
+    color: navy !important;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: navy !important;
+}
