@@ -24,6 +24,24 @@ hr {
     margin-bottom: 40px;
     margin-top: 80px;
 }
+.keszsegek{
+    height: 60rem;
+}
+.hobbi{
+    height: 5rem;
+    width: 30rem;
+}
+.pozicio{
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+}
+.copyright{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    color: rgb(248, 244, 233);
+}
 .card-img-top{
   margin-top: 0.5rem;
   border: 5px solid rgb(185, 203, 217);
@@ -51,18 +69,19 @@ hr {
 
 .footer-div {
     background-color: rgb(33, 37, 41);
+    height: 8rem;
 }
-
 .main-div {
     background-color: rgb(248, 244, 233);
     width: 100%;
     height: fit-content;
     margin: 30px;
+    margin-bottom: 80px;
     margin: auto;
     border: rgb(33, 37, 41) 2px solid;
     color: #000;
-    font-size: 24px;
-    padding: 20px;
+    font-size: 1.5rem;
+    text-align: justify;
 }
 .main-div2 {
     background-color: rgb(248, 244, 233);
@@ -75,6 +94,7 @@ hr {
     color: #000;
     font-size: 1.5rem;
     padding: 20px;
+    text-align: center;
 }
 
 .name {
@@ -90,32 +110,7 @@ hr {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* Hover animációk */
 .hover-underline {
     font-size: 1rem;
     color: #ffffff;
