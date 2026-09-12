@@ -24,42 +24,59 @@ hr {
     margin-bottom: 40px;
     margin-top: 80px;
 }
-.hobbiszoveg{
+.progress {
+    width: 45rem;
+    margin-left: 11rem;
+}
+
+.elsajatitott {
+    width: 50rem;
+    height: 40rem;
+}
+
+.timeline {
+    border: 5px solid rgb(248, 244, 233);
+
+}
+
+.edzes {
+    border: 5px solid rgb(248, 244, 233);
+    margin-top: 2rem;
+    max-height: 550px;
+}
+
+.hobbiszoveg {
     color: rgb(248, 244, 233);
     font-weight: bold;
-    font-size: 2rem;
+    font-size: 2vw;
     width: 30rem;
 }
-.keszsegek{
+
+.keszsegek {
     height: 60rem;
 }
-.hobbi{
+
+.hobbi {
     height: 5rem;
     width: 30rem;
 }
-.pozicio{
+
+.pozicio {
     text-align: left;
     font-family: 'Courier New', Courier, monospace;
 }
-.copyright{
+
+.copyright {
     text-align: center;
     margin: 0;
     padding: 0;
     font-weight: bold;
     color: rgb(248, 244, 233);
 }
-.card-img-top{
-  margin-top: 0.5rem;
-  border: 5px solid rgb(185, 203, 217);
-}
-.fih{
-    width: 200px;
-    height: auto;
-    float: right;
-}
-.icon {
-    font-size: 100px;
-    margin: 50px;
+
+.card-img-top {
+    margin-top: 0.5rem;
+    border: 5px solid rgb(185, 203, 217);
 
 }
 
@@ -77,6 +94,7 @@ hr {
     background-color: rgb(33, 37, 41);
     height: 8rem;
 }
+
 .main-div {
     background-color: rgb(248, 244, 233);
     width: 100%;
@@ -86,9 +104,10 @@ hr {
     margin: auto;
     border: rgb(33, 37, 41) 2px solid;
     color: #000;
-    font-size: 1.5rem;
+    font-size: 1.2vw;
     text-align: justify;
 }
+
 .main-div2 {
     background-color: rgb(248, 244, 233);
     width: 100%;
@@ -98,7 +117,7 @@ hr {
     margin: auto;
     border: rgb(33, 37, 41) 2px solid;
     color: #000;
-    font-size: 1.5rem;
+    font-size: 1.2vw;
     padding: 20px;
     text-align: center;
 }
@@ -106,6 +125,7 @@ hr {
 .name {
     float: right;
 }
+
 
 
 
