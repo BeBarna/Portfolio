@@ -24,14 +24,19 @@ hr {
     margin-bottom: 40px;
     margin-top: 80px;
 }
+
+.gitlink {
+    color: rgb(185, 203, 217);
+}
+
 .progress {
     width: 45rem;
     margin-left: 11rem;
 }
 
 .elsajatitott {
-    width: 50rem;
-    height: 40rem;
+    max-height: 30rem;
+    margin-left: 6rem;
 }
 
 .timeline {
